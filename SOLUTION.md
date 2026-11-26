@@ -27,3 +27,10 @@ Build with `cmake . && make`. Run focused tests with
   and aliased addition.
 - The sample-data path in the task README was absent; public samples were
   retrieved from the linked specification repository instead.
+
+## Online judge result
+
+- Submission: `879630` (first attempt, ACMOJ problem `2902`).
+- Evaluated commit: `2114488b691c2250a67583e5c190f44da8e49c86`.
+- Result: Accepted, 100/100; all 20 test points passed.
+- Maximum individual test time: 363 ms; peak memory: 7,528,448 bytes.
